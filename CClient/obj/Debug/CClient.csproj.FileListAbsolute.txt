@@ -1,0 +1,11 @@
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\bin\Debug\CClient.exe.config
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\bin\Debug\CClient.exe
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\bin\Debug\CClient.pdb
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\bin\Debug\CCommon.dll
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\bin\Debug\CCommon.pdb
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\obj\Debug\CClient.csprojResolveAssemblyReference.cache
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\obj\Debug\CClient.MainClientForm.resources
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\obj\Debug\CClient.Properties.Resources.resources
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\obj\Debug\CClient.csproj.GenerateResource.Cache
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\obj\Debug\CClient.exe
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CClient\obj\Debug\CClient.pdb

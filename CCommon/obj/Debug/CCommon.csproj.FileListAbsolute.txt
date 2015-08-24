@@ -1,0 +1,6 @@
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CCommon\bin\Debug\CCommon.dll
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CCommon\bin\Debug\CCommon.pdb
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CCommon\obj\Debug\CCommon.Properties.Resources.resources
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CCommon\obj\Debug\CCommon.csproj.GenerateResource.Cache
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CCommon\obj\Debug\CCommon.dll
+C:\Users\1024\Documents\Visual Studio 2012\Projects\CServer\CCommon\obj\Debug\CCommon.pdb

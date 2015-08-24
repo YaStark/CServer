@@ -1,0 +1,15 @@
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\CClient.exe.config
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\CClient.exe
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\CClient.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\CCommon.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\CCommon.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.csprojResolveAssemblyReference.cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.MainClientForm.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.Properties.Resources.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.csproj.GenerateResource.Cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.exe
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\NAudio.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\bin\Release\NAudio.xml
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CClient\obj\Release\CClient.CallPanel.resources

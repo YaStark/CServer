@@ -1,0 +1,10 @@
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\bin\Release\CCommon.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\bin\Release\CCommon.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\bin\Release\Open.Nat.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\bin\Release\Open.Nat.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\bin\Release\Open.Nat.xml
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\obj\Release\CCommon.Properties.Resources.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\obj\Release\CCommon.csproj.GenerateResource.Cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\obj\Release\CCommon.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\obj\Release\CCommon.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CCommon\obj\Release\CCommon.csprojResolveAssemblyReference.cache
