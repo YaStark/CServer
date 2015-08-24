@@ -1,0 +1,15 @@
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\CServer.exe.config
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\CServer.exe
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\CServer.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\CCommon.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\Open.Nat.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\CCommon.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\Open.Nat.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Release\Open.Nat.xml
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.csprojResolveAssemblyReference.cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.MainServerForm.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.Options.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.Properties.Resources.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.csproj.GenerateResource.Cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.exe
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Release\CServer.pdb

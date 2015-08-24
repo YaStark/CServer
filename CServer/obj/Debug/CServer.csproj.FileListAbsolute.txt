@@ -1,0 +1,11 @@
+c:\users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Debug\CServer.exe.config
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Debug\CServer.exe
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Debug\CServer.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Debug\CCommon.dll
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\bin\Debug\CCommon.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Debug\CServer.csprojResolveAssemblyReference.cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Debug\CServer.Properties.Resources.resources
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Debug\CServer.csproj.GenerateResource.Cache
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Debug\CServer.exe
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Debug\CServer.pdb
+C:\Users\1024\documents\visual studio 2012\Projects\CServer\CServer\obj\Debug\CServer.MainServerForm.resources
